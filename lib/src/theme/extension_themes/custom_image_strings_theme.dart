@@ -4,10 +4,10 @@ class CustomImageStringsTheme {
   CustomImageStringsTheme._();
 
   static const CustomImageStrings lightTheme = CustomImageStrings(
-    conviergeLogo: 'assets/images/logo-purple.png',
+    appLogo: 'assets/images/logo-purple.png',
   );
 
   static const CustomImageStrings darkTheme = CustomImageStrings(
-    conviergeLogo: 'assets/images/logo.png',
+    appLogo: 'assets/images/logo.png',
   );
 }
