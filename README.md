@@ -1,33 +1,16 @@
-Sure, here's a description for your GitHub repository:
+# paymentgetwaysample
 
----
+A new Flutter project.
 
-## Flutter Strip Payment Integration with Google Pay and Apple Pay
+## Getting Started
 
-This project demonstrates how to integrate payment functionalities into a Flutter application using Stripe as the payment processor, and enabling seamless transactions through Google Pay and Apple Pay.
+This project is a starting point for a Flutter application.
 
-### Features:
-- **Stripe Integration**: Utilize the power of Stripe's robust payment infrastructure for secure and reliable transactions.
-- **Google Pay Integration**: Seamlessly incorporate Google Pay for swift and convenient payments on Android devices.
-- **Apple Pay Integration**: Provide a frictionless payment experience for users on iOS devices through Apple Pay integration.
-- **Flutter Compatibility**: Developed entirely in Flutter, ensuring cross-platform compatibility for both Android and iOS.
+A few resources to get you started if this is your first Flutter project:
 
-### How to Use:
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
-2. **Install Dependencies**: Run `flutter pub get` to install all the required dependencies.
-3. **Set Up Stripe**: Obtain your Stripe API keys and configure them in the project.
-4. **Configure Google Pay and Apple Pay**: Follow the documentation provided by Google and Apple to set up Google Pay and Apple Pay for your project.
-5. **Run the Application**: Use `flutter run` to launch the application on your desired device or emulator.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-### Contribution:
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-### License:
-This project is licensed under the [MIT License](LICENSE).
-
-### Disclaimer:
-Please note that this project is intended for demonstration purposes only. Ensure compliance with all relevant regulations and guidelines when integrating payment functionalities into your own applications.
-
----
-
-Feel free to customize it further to match the specifics of your project!
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
